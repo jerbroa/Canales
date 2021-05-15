@@ -15,3 +15,7 @@ blob:https://wigistream.to/800d2310-3e4c-443d-ac30-fb7947601f34
 
 #EXTINF:-1 , Canal ESPN 3
 blob:https://teleriumtv.net/4fd8ce5c-4d84-4c74-a5a2-f6ec43eb676e
+
+#EXTINF:-1 , Canal
+
+blob:https://wigistream.to/b4996036-86c7-45e5-ae70-1bc826752a97
